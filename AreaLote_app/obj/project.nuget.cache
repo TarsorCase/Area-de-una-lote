@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "smrEZsuVS+tDGqKP8m5hl0fxInM3Sx6agG1BZ4isufnXGa3H4KrHF2apLDulsNVGA3wSs/eIzvteh03Gyj3k1g==",
+  "success": true,
+  "projectFilePath": "/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/AreaLote_app.csproj",
+  "expectedPackageFiles": [
+    "/home/gerard/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

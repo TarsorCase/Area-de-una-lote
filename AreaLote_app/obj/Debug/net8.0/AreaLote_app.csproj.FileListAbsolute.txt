@@ -1,0 +1,15 @@
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/bin/Debug/net8.0/AreaLote_app
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/bin/Debug/net8.0/AreaLote_app.deps.json
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/bin/Debug/net8.0/AreaLote_app.runtimeconfig.json
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/bin/Debug/net8.0/AreaLote_app.dll
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/bin/Debug/net8.0/AreaLote_app.pdb
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/AreaLote_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/AreaLote_app.AssemblyInfoInputs.cache
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/AreaLote_app.AssemblyInfo.cs
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/AreaLote_app.csproj.CoreCompileInputs.cache
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/AreaLote_app.sourcelink.json
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/AreaLote_app.dll
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/refint/AreaLote_app.dll
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/AreaLote_app.pdb
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/AreaLote_app.genruntimeconfig.cache
+/home/gerard/Desktop/UCB/UCB/Area_Lote/Area-de-una-lote/AreaLote_app/obj/Debug/net8.0/ref/AreaLote_app.dll
